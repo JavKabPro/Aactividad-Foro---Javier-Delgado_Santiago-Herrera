@@ -23,17 +23,6 @@ Excel (historias de usuario)
 PDF Informe
 JPG Diagrama relacional SQL
 
-📁 Estructura del Repositorio
-📦 proyecto-base-datos
- ┣ 📂 database
- ┃ ┣ DDL - CampeonatosFIFA_FORO.sql
- ┃ ┣ DML - CampeonatosFIFA_FORO.sql
- ┃ ┗ Consultas Foro.sql
- ┣ 📂 docs
- ┃ ┣ diagrama_relacional.jpg
- ┃ ┣ informe.pdf
- ┃ ┗ link del video
- ┣ 📂 requirements
- ┃ ┗ historias_usuario.xlsx
- ┣ README.md
- ┗ .gitignore
+📁 Estructura del Repositorio: 📦 proyecto-base-datos  📂 database / DDL - CampeonatosFIFA_FORO.sql,  DML - CampeonatosFIFA_FORO.sql,  Consultas Foro.sql
+📂 docs/ diagrama_relacional.jpg, informe.pdf, link del video
+📂 requirements/ historias_usuario.xlsx, README.md, .gitignore,
