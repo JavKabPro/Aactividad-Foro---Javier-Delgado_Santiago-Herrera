@@ -15,7 +15,7 @@ Implementar la base de datos mediante scripts SQL (DDL y DML)
 Realizar consultas que respondan a necesidades del negocio
 Documentar el proceso de desarrollo de la base de datos
 
-Tecnologías y materiales utilizados:
+# Tecnologías y materiales utilizados:
 
 SQL Server
 SQL (DDL y DML)
@@ -25,4 +25,7 @@ JPG Diagrama relacional SQL
 
 📁 Estructura del Repositorio: 📦 proyecto-base-datos  📂 database / DDL - CampeonatosFIFA_FORO.sql,  DML - CampeonatosFIFA_FORO.sql,  Consultas Foro.sql
 📂 docs/ diagrama_relacional.jpg, informe.pdf, link del video
-📂 requirements/ historias_usuario.xlsx, README.md, .gitignore,
+📂 requirements/ historias_usuario.xlsx, README.md, .gitignore
+
+# Link
+https://youtu.be/h6fb8E7hA-M?si=SOZnj2pcfOYt2aRQ
